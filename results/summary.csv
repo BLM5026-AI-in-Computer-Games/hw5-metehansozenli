@@ -1,0 +1,4 @@
+solver,total_length_km,runtime_s,order,html_map
+Nearest Neighbor,65.19408736991552,1.833741400000001,"[0, 14, 21, 7, 10, 2, 4, 17, 3, 13, 18, 1, 9, 12, 15, 5, 16, 20, 8, 19, 11, 6]",results\task5_nearest.html
+OR-Tools,56.720097635871355,13.836563700000006,"[0, 12, 16, 5, 15, 9, 1, 18, 13, 3, 17, 10, 2, 4, 19, 11, 8, 20, 6, 21, 7, 14]",results\task5_or-tools.html
+Genetic Algorithm,59.77865232997578,3.6288099000000003,"[0, 14, 12, 16, 5, 15, 9, 1, 18, 13, 17, 3, 19, 11, 8, 20, 4, 2, 10, 7, 21, 6]",results\task5_genetic.html
